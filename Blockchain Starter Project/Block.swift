@@ -3,7 +3,7 @@
 //  Blockchain Starter Project
 //
 //  Created by Sai Kambampati on 5/4/18.
-//  Copyright © 2018 AppCoda. All rights reserved.
+//  Copyright © 2018 AppCoda. All rights reserved
 //gyghygyu
 //djiqwjdia
 
@@ -14,7 +14,7 @@
 //
 //master change
 //branch 15816第二次測試
-//主線自己的開ㄈ
+//店第三次測試
 
 import UIKit
 
