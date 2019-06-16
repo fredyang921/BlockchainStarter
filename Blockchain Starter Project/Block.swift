@@ -4,6 +4,7 @@
 //
 //  Created by Sai Kambampati on 5/4/18.
 //  Copyright © 2018 AppCoda. All rights reserved.
+<<<<<<< HEAD
 //gyghygyu
 //djiqwjdia
 
@@ -11,6 +12,10 @@
 
 //fewijfiowejfijiwe
 //branch test
+=======
+//
+//master change
+>>>>>>> master
 
 import UIKit
 
