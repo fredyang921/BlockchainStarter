@@ -7,6 +7,7 @@
 //15816
 //r2ij3ir
 //conti fix
+//直持續
 
 import UIKit
 
