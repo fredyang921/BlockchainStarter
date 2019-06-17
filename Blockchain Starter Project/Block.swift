@@ -12,7 +12,6 @@
 //主線持續修改
 //主線
 import UIKit
-
 class Block {
     // Enter the logic for the Block here
     var hash: String!
