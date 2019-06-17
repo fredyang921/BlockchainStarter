@@ -10,7 +10,6 @@
 //測試分支
 //主線被修改了
 import UIKit
-
 class Block {
     // Enter the logic for the Block here
     var hash: String!
